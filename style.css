@@ -1,0 +1,54 @@
+.pr-menu-bar-container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.pr-menu-bar {
+    background-color: white;
+    color: black;
+    margin-bottom: 50px;
+    padding-left: 25px;
+}
+
+.pr-content-container {
+    height: 100%;
+    min-height: 100vh;
+}
+
+.pr-link-bar > ul > li > a {
+    color: black;
+}
+
+.pr-link-bar > ul > li > a:hover {
+    color: black;
+    text-decoration: underline;
+}
+.pr-catcher {
+    display: inline;
+    font-size: 1.5rem;
+    color: black;
+    font-weight: bold;
+}
+
+.pr-hero {
+    background-image: url("img/hero.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.pr-footerbar-container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.pr-footerbar {
+    padding-left: 25px;
+    background-color: white;
+    color: black;
+}
+
+.pr-infoblock {
+    color: black;
+    font-size: 1rem;
+}
